@@ -60,3 +60,26 @@
 >>      - Mot de passe par défaut = vagrant
 >> - vagrant halt
 >> - vagrant destroy
+
+## Lab 4
+> Tâches
+>
+>> - Créer un vagrantfile
+>> - Configurer la VM(CentOS 7 by Geerlingguy, RAM 2Go, CPU 2, Private IP 10.0.0.1O)
+>> - Variabiliser les paramètres
+>> - Démarrer la VM
+>> - Se connecter en SSH
+>> - Installer nginx
+>> - Démarrer nginx et activer son démarrage au lancement de la VM
+>> - Arrêter la VM
+>> - Supprimer la VM
+>
+>Commandes 
+>
+>> - vagrant init
+>> - vagrant validate
+>> - vagrant up
+>> - vagrant ssh
+>>      - Mot de passe par défaut = vagrant
+>> - vagrant halt
+>> - vagrant destroy
